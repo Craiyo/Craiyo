@@ -35,7 +35,7 @@ I'm a passionate **Software Developer** and aspiring **Software Development Engi
 
 ### 🌐 Let's Connect!
 - **Portfolio**: [Ayush Yadav](https://links.cuvette.tech/student/66001412ada3a7532279f1f5)
-- **LinkedIn**: [LinkedIn Profile](#)
-- **GitHub**: @Craiyo
+- **LinkedIn**: [LinkedIn Profile](www.linkedin.com/in/ayush-yadav-a69490144)
+- **GitHub**: [@Craiyo](https://github.com/Craiyo)
 
 Thanks for stopping by! Feel free to check out my projects and reach out for collaborations. 🚀
