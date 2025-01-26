@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Ayush Yadav!
 
 ### 🌟 About Me
-I'm a passionate **Software Developer** and aspiring **Software Development Engineer in Test (SDET)**. I hold a **B.Sc. in Computer Science & Information Technology (CSIT)** from **University of Delhi** and am currently pursuing **MCSIS (Master of Computer Science and Information Security)** from **IGNOU**. I love solving challenging problems, creating innovative solutions, and learning new technologies.
+I'm a passionate **Software Developer** and aspiring **Software Development Engineer in Test (SDET)**. I hold a **B.Sc. in Computer Science(CS)** from **University of Delhi** and am currently pursuing **MCSIS (Master of Computer Science and Information Security)** from **IGNOU**. I love solving challenging problems, creating innovative solutions, and learning new technologies.
 
 ### 🚀 Skills
 - **Programming Languages**: Python, Java, JavaScript, C/C++
@@ -30,7 +30,7 @@ I'm a passionate **Software Developer** and aspiring **Software Development Engi
 - Worked with **Delhi University Computer Society (DUCS)** on various technical initiatives.
 
 ### 🎓 Education
-- **University of Delhi**: B.Sc. in CSIT (2021-2024, 8 CGPA)
+- **University of Delhi**: B.Sc. in CS (2021-2024, 8 CGPA)
 - **Meerut Public School**: Class X (9.2 CGPA, 2018) | Class XII (9.5 CGPA, 2020)
 
 ### 🌐 Let's Connect!
